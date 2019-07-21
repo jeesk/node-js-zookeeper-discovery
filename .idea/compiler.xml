@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mas-smaple-api" />
         <module name="node-js-service-discover" />
+        <module name="mas-smaple-api" />
       </profile>
     </annotationProcessing>
   </component>
