@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="39019f1e-dcbd-4ae2-b518-1e0a4750a5fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -113,10 +112,10 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="139" />
-    <option name="y" value="164" />
-    <option name="width" value="1375" />
-    <option name="height" value="1024" />
+    <option name="x" value="328" />
+    <option name="y" value="183" />
+    <option name="width" value="1367" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -251,7 +250,7 @@
       <workItem from="1563494517374" duration="1964000" />
       <workItem from="1563588862943" duration="3124000" />
       <workItem from="1563607658924" duration="7090000" />
-      <workItem from="1563670040196" duration="3053000" />
+      <workItem from="1563670040196" duration="3599000" />
     </task>
     <task id="LOCAL-00001" summary="change pom.xml for jenkins">
       <created>1563670452459</created>
@@ -260,16 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1563670452459</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add application name">
+      <created>1563676275148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563676275148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19747000" />
+    <option name="totallyTimeSpent" value="20293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="-1" width="2089" height="1442" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23996034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23996034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -279,19 +285,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90381753" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90332174" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39951378" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8547348" weight="0.5398374" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.854239" visible="true" weight="0.6406504" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.09618245" side_tool="true" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.14576103" side_tool="true" visible="true" weight="0.6406504" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4997521" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -309,8 +315,11 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="change pom.xml for jenkins" />
-    <option name="LAST_COMMIT_MESSAGE" value="change pom.xml for jenkins" />
+    <MESSAGE value="add application name" />
+    <option name="LAST_COMMIT_MESSAGE" value="add application name" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/public/js/index.html" />
@@ -445,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
