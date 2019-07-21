@@ -7,6 +7,7 @@
     <groupId>com.shanjiancaofu</groupId>
     <artifactId>zk-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <name>zk-parent</name>
     <!-- FIXME change it to the project's website -->
