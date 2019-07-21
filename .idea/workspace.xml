@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39019f1e-dcbd-4ae2-b518-1e0a4750a5fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mas-smaple-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mas-smaple-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,11 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -43,6 +52,7 @@
     <findStrings>
       <find>``</find>
       <find>zkparent</find>
+      <find>jar</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -54,7 +64,6 @@
         <option value="$PROJECT_DIR$/mas-smaple-api/src/main/java/com/shanjiancaofu/massmapleapi/MasSmapleApiApplication.java" />
         <option value="$PROJECT_DIR$/mas-smaple-api/src/main/java/com/shanjiancaofu/massmapleapi/ServiceRegistry.java" />
         <option value="$PROJECT_DIR$/mas-smaple-api/src/main/java/com/shanjiancaofu/massmapleapi/RegistryConfig.java" />
-        <option value="$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/mas-smaple-api/src/main/java/com/shanjiancaofu/massmapleapi/WebListener.java" />
         <option value="$PROJECT_DIR$/mas-smaple-api/src/main/resources/public/js/jquery.min.js" />
         <option value="$PROJECT_DIR$/mas-smaple-api/src/main/resources/public/js/index.html" />
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/mas-smaple-api/src/main/resources/app.js" />
         <option value="$PROJECT_DIR$/mas-smaple-api/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -126,6 +136,50 @@
               <item name="zkparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="zkparent" type="462c0819:PsiDirectoryNode" />
               <item name="mas-smaple-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zkparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zkparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mas-smaple-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zkparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zkparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mas-smaple-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zkparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zkparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mas-smaple-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zkparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zkparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mas-smaple-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="massmapleapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zkparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zkparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mas-smaple-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zkparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zkparent" type="462c0819:PsiDirectoryNode" />
+              <item name="mas-smaple-api" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,17 +251,25 @@
       <workItem from="1563494517374" duration="1964000" />
       <workItem from="1563588862943" duration="3124000" />
       <workItem from="1563607658924" duration="7090000" />
-      <workItem from="1563670040196" duration="310000" />
+      <workItem from="1563670040196" duration="3053000" />
     </task>
+    <task id="LOCAL-00001" summary="change pom.xml for jenkins">
+      <created>1563670452459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563670452459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17004000" />
+    <option name="totallyTimeSpent" value="19747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="-1" width="2089" height="1442" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23996034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23996034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -217,15 +279,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9043133" visible="true" weight="0.63577235" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90381753" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39951378" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.85523057" weight="0.49674797" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8547348" weight="0.5398374" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.09568667" side_tool="true" visible="true" weight="0.63577235" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.09618245" side_tool="true" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -246,6 +308,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change pom.xml for jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="change pom.xml for jenkins" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/public/js/index.html" />
     <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/public/package.json" />
@@ -263,13 +329,6 @@
             <element signature="e#567#568#0" expanded="true" />
             <element signature="e#597#598#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -379,8 +438,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mas-smaple-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
